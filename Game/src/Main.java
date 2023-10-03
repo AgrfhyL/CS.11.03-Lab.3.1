@@ -939,9 +939,7 @@ ESCAPE MR.NG'S DETENTION!!
 Storyline:
 You are a Y11 student at CIS. You pulled out your phone in the hallway, just to check the time. However, Mr. Ng walked pass at the exact moment
 You got CAUGHT. He's about to confiscate your phone right on the spot, and send you to detention immediately. You run. Get outta here. That's all you gotta do.
-Fucntions in this game: multiple choice, there is only one right way to get out (a sequence of right decisions).
-a narrator is going to "help" you get out and give you "useful" hints.
+Functions in this game: multiple choice, a narrator is going to "help" you get out.
 If possible, I might make the narrator troll the player sometimes just to annoy them.
-Win condition: don't get caught, either by Mr. Ng himself, security, or other teachers.
-- if
+Win condition: don't get caught, either by Mr. Ng himself, security, or through other ways
 */
